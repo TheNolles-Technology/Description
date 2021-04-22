@@ -6,8 +6,15 @@
 
 ### Connect with us:
 
-[<img align="left" width="22px" src="https://i.imgur.com/jGKa5Cc.png" alt="TheNolle.com">][Website]
-[<img align="left" width="22px" src="https://i.imgur.com/Q8vphrH.png" alt="TheNolle | Discord">][Discord]
+<b>Website</b>
+<a href="https://Studios.TheNolle.com/">
+  <img align="left" width="22px" src="https://i.imgur.com/jGKa5Cc.png" alt="Studios.TheNolle.com">
+</a>
+
+<b>TheNolle's Studios Discord</b>
+<a href="https://TheNolle.com/Discord">
+  <img align="left" width="22px" src="https://i.imgur.com/Q8vphrH.png" alt="TheNolle's Studios Discord">
+</a>
 
 <br>
 
@@ -18,4 +25,3 @@
 
 [Website]: https://TheNolle.com/
 [TheNollesWorks]: https://Works.TheNolle.com/
-[Discord]: https://Discord.com/invite/yUgp7k8/
