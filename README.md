@@ -13,8 +13,6 @@
 
 ---
 
-<br>
-
 ## News
 [<img align="left" alt="TheNolle's Studios - Responsive News Image" src="https://via.placeholder.com/3840x2160/1A1A1A/EEC0F0?text=Coming%20Soon:%20||%20Dynamic%20image%20displaying%20the%20latest%20News">](https://Studios.TheNolle.com)
 
